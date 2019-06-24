@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EventRecorder</string>
+    <string name="logoName">Name of the App: Event Recorder</string>
+    <string name="event1">Take Medicine</string>
+    <string name="event2">Run for 30 minutes</string>
+    <string name="event3">Meditate</string>
+    <string name="record">History</string>
+    <string name="settings">Settings</string>
+    <string name="info">"Event Recorder records the time and date when you
+        do your activity"</string>
+    <string name="author">Designed and Developed by Sandeep Singh (C) 2019</string>
+    <string name="back">Go Back</string>
+    <string name="reset">Reset Record</string>
+    <string name="delLast">Delete Last Record</string>
+    <string name="refresh">Refresh</string>
+    <string name="ques">Add more activities below:</string>
+    <string name="activityName">Activity Name: </string>
+    <string name="activityDate">Date:</string>
+    <string name="activityTime">Time:</string>
+    <string name="activitySave">Save</string>
+    <string name="instructionDate">Click to add Date</string>
+    <string name="instructionTime">Click to add Time</string>
+    <string name="log">Events Recorded</string>
+    <string name="event">Events</string>
+    <string name="dateTime">Date and Time</string>
+    <string name="example">e.g. Babysitting</string>
+
+
+</resources>
